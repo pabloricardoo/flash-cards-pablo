@@ -1,24 +1,24 @@
-criacartao(
-    'categoria'
-    'pergunta'
+criaCartao(
+    'categoria',
+    'pergunta',
     'resposta'
 )
 
-(
-    'categoria'
-    'pergunta'
+criaCartao(
+    'categoria',
+    'pergunta',
     'resposta'
 )
 
-(
-    'categoria'
-    'pergunta'
+criaCartao(
+    'categoria',
+    'pergunta',
     'resposta'
 )
 
-(
-    'categoria'
-    'pergunta'
+criaCartao(
+    'categoria',
+    'pergunta',
     'resposta'
 )
 
