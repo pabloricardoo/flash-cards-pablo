@@ -1,24 +1,23 @@
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
+    'montanha'
+    'qual a montanha mais alta do brasil? '
+    'pico da Bandeira'
+
+criaCartao(
+    'quimica'
+    'Atualmente, quantos elementos químicos a tabela periódica possui?
+    'resposta'118
 )
 
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
+    'corpo'
+    'Quantos ossos temos no nosso corpo?
+    'resposta'206
 )
 
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
-)
-
-criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
+    'planeta'
+    'Qual o maior planeta do sistema solar?'
+    'Júpiter'
 )
 
