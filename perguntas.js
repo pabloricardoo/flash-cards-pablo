@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'quimica',
-    'Atualmente, quantos elementos químicos a tabela periódica possui? ,
+    'Atualmente, quantos elementos químicos a tabela periódica possui? 
     'resposta'118
 )
 
@@ -15,6 +15,8 @@ criaCartao(
     'Quantos ossos temos no nosso corpo?,
     'resposta'206
 )
+  
+
 
 criaCartao(
     'planeta',
