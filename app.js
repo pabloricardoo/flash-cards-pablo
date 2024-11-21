@@ -13,13 +13,13 @@ function criaCartao(categoria, pergunta, resposta) {
                         <p>${resposta}</p>
                     </div>
                 </div>
-                '
+                `
 
     let respostaEstaVisivel = false;
 
     function viraCartao() {
-        respostataVisivel = !respostataVisivel;
-        cartao.classList.toggle('active', respostataVisivel);
+        respostaEstaVisivel = !respostaEstaVisivel;
+        cartao.classList.toggle('active', respostaEstaVisivel);
     }
 
     cartao.addEventListener('click', viraCartao);
