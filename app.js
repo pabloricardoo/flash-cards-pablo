@@ -15,7 +15,7 @@ function criaCartao(categoria, pergunta, resposta) {
                 </div>
                 '
 
-    let respostataVisivel = false;
+    let respostaEstaVisivel = false;
 
     function viraCartao() {
         respostataVisivel = !respostataVisivel;
