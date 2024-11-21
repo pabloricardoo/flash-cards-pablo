@@ -16,8 +16,6 @@ criaCartao(
     'resposta'206
 )
   
-
-
 criaCartao(
     'planeta',
     'Qual o maior planeta do sistema solar?',
